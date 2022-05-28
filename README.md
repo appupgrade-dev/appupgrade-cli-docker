@@ -3,9 +3,9 @@
 ### Installation
 ```sh
 docker pull appupgrade/appupgrade-cli
-docker run appupgrade-cli --help
+docker run appupgrade/appupgrade-cli --help
 
-docker run appupgrade-cli <COMMAND> <SUBCOMMAND> <ARGS>
+docker run appupgrade/appupgrade-cli <COMMAND> <SUBCOMMAND> <ARGS>
 ```
 
 ### Usage
